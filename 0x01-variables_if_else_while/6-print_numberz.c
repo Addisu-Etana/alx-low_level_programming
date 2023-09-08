@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-  * main - main function single digit numbers of base 10 function
-  * return: eachtime 0
+  * main-main function
+  *
+  * Return:eachtime 0
   */
-
 int main(void)
 {
 	int a;
