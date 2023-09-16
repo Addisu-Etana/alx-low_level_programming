@@ -2,6 +2,7 @@
 /**
   * more_numbers - function prints 10 times the number
   * followed by a new line
+  * Return: void
   */
 void more_numbers(void)
 {
