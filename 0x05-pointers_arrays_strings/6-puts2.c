@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * puts2 - prints every other character of a string
+  * puts2 - function should prints every other character of a string
   *
   *@str: input
   * Return: always 0
@@ -18,7 +18,7 @@ void puts2(char *str)
 		a++;
 	}
 	b = a - 1;
-	for (x = 0; x < = b; x++)
+	for (x = 0; x <= b; x++)
 	{
 		if (x % 2 == 0)
 		{
