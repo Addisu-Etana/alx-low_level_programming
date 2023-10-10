@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /**
- * new_dog - Creates a new dog.
- * @name: The name of the dog.
- * @age: The age of the dog.
- * @owner: The owner of the dog.
+ * new_dog - new dog to be created
+ * @name: name if the new dog
+ * @age: age of the new dog
+ * @owner: owner of the new dog
  *
  * Return: Pointer to the new dog.
  */
