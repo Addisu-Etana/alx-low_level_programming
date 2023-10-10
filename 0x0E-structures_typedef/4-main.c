@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "dog.h"
-my_dog = new_dog("Poppy", 3.5, "Bob");
+
 /**
  * main - check the code
  *
